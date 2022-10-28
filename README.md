@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @HappyfaceJack
+- 👋 Hi, I’m @Haooyface
 - 👀 I’m interested in Brain Computer Interface (BCI).
 - 🌱 I’m currently learning how to build and program a custom BCI device.
 - 💞️ I’m looking to collaborate on entry level BCI projects.
-- 📫 Reach me @jacklam0711@gmail.com
 
 <!---
 HappyfaceJack/HappyfaceJack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
